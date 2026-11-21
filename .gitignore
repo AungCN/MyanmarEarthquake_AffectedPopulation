@@ -1,0 +1,19 @@
+# macOS / Windows system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+Desktop.ini
+
+# Python & Jupyter caches / virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.streamlit/secrets.toml
